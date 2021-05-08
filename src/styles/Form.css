@@ -1,0 +1,29 @@
+.titleForm {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+
+
+
+
+form {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+textarea {
+    width: 51%;
+    padding: 50px 30px;
+    box-sizing: border-box; 
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+.submit-button {
+    margin-top: 30px;
+}
